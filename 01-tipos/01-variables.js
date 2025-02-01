@@ -1,9 +1,9 @@
-let nombre = "Hola Mundo";
+let nombre = ['adalis', 'cerdito rosado','fernando'];
 let NombreCompleto;
 let nombreCompleto;
 let nombre_completo
 
-console.log(nombre);
+console.log(typeof nombre);
 
 let apellido;
 let animal;
